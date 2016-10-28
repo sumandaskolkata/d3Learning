@@ -1,0 +1,9 @@
+.firstChart{
+    height: 300px;
+    width: 400px;
+    border: 1px solid black;
+}
+
+.bar {
+    background-color: skyblue;
+}
