@@ -1,0 +1,16 @@
+.subjects{
+    margin-left: 100px;
+    color: whitesmoke
+}
+
+.subject{
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+    width: 80px;
+    border-radius:10px; 
+}
+.bar{
+    color: whitesmoke;
+    border-radius: 15px;
+}
